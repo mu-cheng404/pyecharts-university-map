@@ -15,6 +15,7 @@ with open("coordinates/city_undergraduate.pkl", 'rb') as f:
 city_graduate = []
 with open("coordinates/city_graduate.pkl", 'rb') as f:
     city_graduate = pickle.load(f)
+    
 
 geo = (
     Geo(
