@@ -2,10 +2,8 @@
 用pyecharts插件制作标记六个大学所在城市分布的中国地图高清图
 
 # 文件目录说明
-coordinates 与坐标有关的文件
-
---city_coordinates.json (地名,坐标)对应关系 比如"赣州": [114.56,28.52]，从https://github.com/pyecharts/pyecharts/blob/master/pyecharts/datasets/city_coordinates.json中获取
-
+coordinates 与坐标有关的文件  
+--city_coordinates.json (地名,坐标)对应关系 比如"赣州": [114.56,28.52]，从https://github.com/pyecharts/pyecharts/blob/master/pyecharts/datasets/city_coordinates.json中获取  
 --city_graduate.pkl
 --city_undergraduate.pkl
 html 存放渲染的html
