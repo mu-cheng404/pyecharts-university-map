@@ -28,6 +28,6 @@ if __name__ == "__main__":
     generate_undergraduate()
 ```
 
-相关博客文章 http://t.csdn.cn/DaAXO
+相关博客文章 https://blog.csdn.net/m0_52942489/article/details/130184900
 
 
