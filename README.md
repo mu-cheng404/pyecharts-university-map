@@ -32,4 +32,5 @@ if __name__ == "__main__":
 
 # 成果图
 ![image](https://user-images.githubusercontent.com/82891817/233764958-19f06d81-c7c7-4daf-b1e8-af358e474bee.png)
+![image](https://user-images.githubusercontent.com/82891817/233764979-897e05a5-bf77-44ad-831c-7d0a7d3fc59b.png)
 
